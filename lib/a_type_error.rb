@@ -1,3 +1,3 @@
 1 + 1
 
-puts "http://" + "www.flatiron.com"
+"1" + "is the loneliest number"
