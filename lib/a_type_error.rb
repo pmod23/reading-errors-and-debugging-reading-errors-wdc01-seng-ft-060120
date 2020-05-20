@@ -1,3 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number".to_i
+puts 1 + "1".to_i
